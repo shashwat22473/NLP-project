@@ -6,4 +6,4 @@ To run the baseline model code we just need to change the path of the dataset ac
 Currently the baseline model gives an F1 score of:
   1) English = 50%
   2) Hindi = 50%
-  3) Tamil = 38%
+  3) Tamil = 37%
